@@ -3,3 +3,6 @@ This is the first chapter.
 
 #The second chapter
 This is the second chapter.
+
+#The third chapter
+This is the third chapter.
