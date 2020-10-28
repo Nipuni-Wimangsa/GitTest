@@ -9,3 +9,5 @@ This is the third chapter.
 
 #The fourth chapter
 This is the fourth chapter
+
+This text is added to the BranchTest.
